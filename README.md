@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nick79%20Web3%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nicky79%20Web3%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Nicky79 👨‍💻</h1>
