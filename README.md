@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nick79%20Web3%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi there 👋 I'm Nicky79 👨‍💻</h1>
 
 <p align="center">
@@ -54,6 +58,14 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicky79eth&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -62,7 +74,7 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
-## 📊 3D Contribution Graph
+## 🌈 3D Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nicky79eth/nicky79eth/output/profile-3d-contrib/profile-night-rainbow.svg"/>
