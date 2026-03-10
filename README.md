@@ -25,3 +25,6 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 </a>
 
 </p>
+## 🐍 Contribution Snake
+
+![snake](https://github.com/nicky79eth/nicky79eth/blob/output/github-contribution-grid-snake-dark.svg)
