@@ -1,6 +1,4 @@
-<h1 align="center">
-Hi there 👋 I'm Nick79 👨‍💻
-</h1>
+<h1 align="center">Hi there 👋 I'm Nick79 👨‍💻</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Developer;Smart+Contract+Builder;DeFi+%7C+Onchain+Games;Building+in+Public"/>
@@ -14,6 +12,10 @@ Web3 Builder • Smart Contracts • DeFi • Onchain Games
 Building open-source Web3 projects and experimenting with blockchain architecture.
 </p>
 
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
 
 <a href="https://x.com/0xNickyy">
@@ -24,11 +26,57 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/nicky79eth">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,solidity,git,github,linux,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nicky79eth&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicky79eth&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/nicky79eth/nicky79eth/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://github.com/nicky79eth/nicky79eth/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nicky79eth/nicky79eth/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🪙 AMM DEX Smart Contract  
+- 🎮 Onchain Mini Games  
+- 🗳 DAO Voting System  
+- 💰 Staking Protocol  
+
+---
+
+⭐ Always building and experimenting in Web3
