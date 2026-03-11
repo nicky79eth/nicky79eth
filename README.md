@@ -74,14 +74,6 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
-## 🌈 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/nicky79eth/nicky79eth/output/profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🪙 AMM DEX Smart Contract  
