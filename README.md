@@ -46,26 +46,6 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicky79eth&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicky79eth&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicky79eth&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
