@@ -46,14 +46,6 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/nicky79eth/nicky79eth/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🪙 AMM DEX Smart Contract  
