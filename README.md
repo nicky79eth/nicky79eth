@@ -1,11 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nicky79%20Web3%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Developer;Smart+Contract+Builder;DeFi+%7C+Onchain+Games;Building+in+Public"/>
 </p>
-
 <p align="center">
 Web3 Builder • Smart Contracts • DeFi • Onchain Games
 </p>
