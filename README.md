@@ -22,13 +22,4 @@ Building open-source Web3 projects and experimenting with blockchain architectur
 
 ---
 
-## 🚀 Featured Projects
-
-- 🪙 AMM DEX Smart Contract  
-- 🎮 Onchain Mini Games  
-- 🗳 DAO Voting System  
-- 💰 Staking Protocol  
-
----
-
 ⭐ Always building and experimenting in Web3
